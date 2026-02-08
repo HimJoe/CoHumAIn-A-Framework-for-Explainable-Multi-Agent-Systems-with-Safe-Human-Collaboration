@@ -355,8 +355,8 @@ find . -name "__init__.py"
 
 ## 📞 Support
 
-- **GitHub Issues:** [Report bugs](https://github.com/CoHumAInLabs/CoHumAIn-Framework/issues)
-- **Discussions:** [Ask questions](https://github.com/CoHumAInLabs/CoHumAIn-Framework/discussions)
+- **GitHub Issues:** [Report bugs](https://github.com/HimJoe/CoHumAIn-A-Framework-for-Explainable-Multi-Agent-Systems-with-Safe-Human-Collaboration/issues)
+- **Discussions:** [Ask questions](https://github.com/HimJoe/CoHumAIn-A-Framework-for-Explainable-Multi-Agent-Systems-with-Safe-Human-Collaboration/discussions)
 - **Email:** support@cohumain.ai
 
 ---
@@ -387,7 +387,7 @@ Your Window of Transparency app is now helping users:
 4. **Gather** user feedback
 5. **Contribute** improvements back
 
-**Star the repo:** ⭐ https://github.com/CoHumAInLabs/CoHumAIn-Framework
+**Star the repo:** ⭐ https://github.com/HimJoe/CoHumAIn-A-Framework-for-Explainable-Multi-Agent-Systems-with-Safe-Human-Collaboration
 
 ---
 

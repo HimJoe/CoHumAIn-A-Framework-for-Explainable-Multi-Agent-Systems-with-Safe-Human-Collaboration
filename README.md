@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://cohumain.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://windowoftransparencyxaiformasbycohumainlabs.streamlit.app/)
 [![Paper](https://img.shields.io/badge/paper-XAI--2026-red)](https://github.com/CoHumAInLabs/CoHumAIn-Framework/blob/main/paper/cohumain_paper.pdf)
 
 **Collective Human and Machine Intelligence (CoHumAIn)** is a domain-agnostic framework that provides transparent, safe, and human-centered explainability for multi-agent AI systems. Designed for high-stakes domains like **finance**, **healthcare**, and **software engineering**.
@@ -49,8 +49,8 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/CoHumAInLabs/CoHumAIn-Framework.git
-cd CoHumAIn-Framework
+git clone https://github.com/HimJoe/CoHumAIn-A-Framework-for-Explainable-Multi-Agent-Systems-with-Safe-Human-Collaboration.git
+cd CoHumAIn-A-Framework-for-Explainable-Multi-Agent-Systems-with-Safe-Human-Collaboration
 
 # Create virtual environment
 python -m venv venv
@@ -269,7 +269,7 @@ CoHumAIn Framework
 - **[Safety & Compliance](docs/safety.md)** - Regulatory requirements and best practices
 - **[Evaluation Methodology](docs/evaluation.md)** - Metrics and validation
 - **[API Reference](docs/api/)** - Complete Python API documentation
-- **[Research Paper](paper/cohumain_paper.pdf)** - XAI-2026 submission
+- **[Research Paper](https://github.com/CoHumAInLabs/CoHumAIn-Framework/blob/main/paper/cohumain_paper.pdf)** - XAI-2026 submission
 
 ---
 
@@ -362,8 +362,8 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) for deta
 
 - **Website**: [https://cohumain.ai](https://cohumain.ai)
 - **Email**: info@cohumain.ai
-- **Issues**: [GitHub Issues](https://github.com/CoHumAInLabs/CoHumAIn-Framework/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/CoHumAInLabs/CoHumAIn-Framework/discussions)
+- **Issues**: [GitHub Issues](https://github.com/HimJoe/CoHumAIn-A-Framework-for-Explainable-Multi-Agent-Systems-with-Safe-Human-Collaboration/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/HimJoe/CoHumAIn-A-Framework-for-Explainable-Multi-Agent-Systems-with-Safe-Human-Collaboration/discussions)
 - **Twitter**: [@CoHumAInLabs](https://twitter.com/CoHumAInLabs)
 
 ---
@@ -398,7 +398,7 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) for deta
 
 ## ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=CoHumAInLabs/CoHumAIn-Framework&type=Date)](https://star-history.com/#CoHumAInLabs/CoHumAIn-Framework&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=HimJoe/CoHumAIn-A-Framework-for-Explainable-Multi-Agent-Systems-with-Safe-Human-Collaboration&type=Date)](https://star-history.com/#HimJoe/CoHumAIn-A-Framework-for-Explainable-Multi-Agent-Systems-with-Safe-Human-Collaboration&Date)
 
 ---
 

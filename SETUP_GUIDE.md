@@ -123,8 +123,8 @@ CoHumAIn-Framework/
 
 ```bash
 # Clone the repository
-git clone https://github.com/CoHumAInLabs/CoHumAIn-Framework.git
-cd CoHumAIn-Framework
+git clone https://github.com/HimJoe/CoHumAIn-A-Framework-for-Explainable-Multi-Agent-Systems-with-Safe-Human-Collaboration.git
+cd CoHumAIn-A-Framework-for-Explainable-Multi-Agent-Systems-with-Safe-Human-Collaboration
 
 # Create virtual environment
 python -m venv venv

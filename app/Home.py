@@ -369,11 +369,11 @@ def show_documentation():
         #### 🎓 Tutorials & Videos
         - [Video Tutorials](https://cohumain.ai/tutorials)
         - [Webinar Recordings](https://cohumain.ai/webinars)
-        - [Code Examples](https://github.com/CoHumAInLabs/CoHumAIn-Framework/tree/main/examples)
+        - [Code Examples](https://github.com/HimJoe/CoHumAIn-A-Framework-for-Explainable-Multi-Agent-Systems-with-Safe-Human-Collaboration/tree/main/examples)
         
         #### 💬 Community & Support
         - [Discord Community](https://discord.gg/cohumain)
-        - [GitHub Discussions](https://github.com/CoHumAInLabs/CoHumAIn-Framework/discussions)
+        - [GitHub Discussions](https://github.com/HimJoe/CoHumAIn-A-Framework-for-Explainable-Multi-Agent-Systems-with-Safe-Human-Collaboration/discussions)
         - [Email Support](mailto:support@cohumain.ai)
         """)
     
@@ -387,7 +387,7 @@ def show_documentation():
         st.link_button("📦 PyPI Package", "https://pypi.org/project/cohumain/")
     
     with col2:
-        st.link_button("🐙 GitHub Repo", "https://github.com/CoHumAInLabs/CoHumAIn-Framework")
+        st.link_button("🐙 GitHub Repo", "https://github.com/HimJoe/CoHumAIn-A-Framework-for-Explainable-Multi-Agent-Systems-with-Safe-Human-Collaboration")
     
     with col3:
         st.link_button("🌐 Website", "https://cohumain.ai")

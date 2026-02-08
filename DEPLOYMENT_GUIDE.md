@@ -366,7 +366,7 @@ git push origin main
    - Click "Deploy"!
 
 3. **Your app will be live at:**
-   `https://cohumain.streamlit.app`
+   `https://windowoftransparencyxaiformasbycohumainlabs.streamlit.app/`
 
 ### Option 2: Docker Deployment
 
