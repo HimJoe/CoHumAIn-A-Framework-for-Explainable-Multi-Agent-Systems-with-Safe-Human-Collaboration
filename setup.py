@@ -27,7 +27,7 @@ setup(
         "Bug Tracker": "https://github.com/HimJoe/CoHumAIn-A-Framework-for-Explainable-Multi-Agent-Systems-with-Safe-Human-Collaboration/issues",
         "Documentation": "https://cohumain.ai/docs",
         "Source Code": "https://github.com/HimJoe/CoHumAIn-A-Framework-for-Explainable-Multi-Agent-Systems-with-Safe-Human-Collaboration",
-        "Paper": "https://github.com/CoHumAInLabs/CoHumAIn-Framework/blob/main/paper/cohumain_paper.pdf",
+        "Paper": "https://drive.google.com/file/d/1fc0bBEF0jxjlgBDZcTUkIuxVSkGLf39M/view?usp=drive_link",
     },
     packages=find_packages(where="src"),
     package_dir={"": "src"},

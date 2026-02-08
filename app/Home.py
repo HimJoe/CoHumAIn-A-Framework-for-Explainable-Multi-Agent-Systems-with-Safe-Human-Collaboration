@@ -362,7 +362,7 @@ def show_documentation():
     with col2:
         st.markdown("""
         #### 📄 Research & Papers
-        - [XAI-2026 Paper](https://github.com/CoHumAInLabs/CoHumAIn-Framework/blob/main/paper/cohumain_paper.pdf)
+        - [XAI-2026 Paper](https://drive.google.com/file/d/1fc0bBEF0jxjlgBDZcTUkIuxVSkGLf39M/view?usp=drive_link)
         - [Evaluation Results](https://cohumain.ai/research/evaluation)
         - [Case Studies](https://cohumain.ai/research/case-studies)
         

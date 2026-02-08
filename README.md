@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://windowoftransparencyxaiformasbycohumainlabs.streamlit.app/)
-[![Paper](https://img.shields.io/badge/paper-XAI--2026-red)](https://github.com/CoHumAInLabs/CoHumAIn-Framework/blob/main/paper/cohumain_paper.pdf)
+[![Paper](https://img.shields.io/badge/paper-XAI--2026-red)](https://drive.google.com/file/d/1fc0bBEF0jxjlgBDZcTUkIuxVSkGLf39M/view?usp=drive_link)
 
 **Collective Human and Machine Intelligence (CoHumAIn)** is a domain-agnostic framework that provides transparent, safe, and human-centered explainability for multi-agent AI systems. Designed for high-stakes domains like **finance**, **healthcare**, and **software engineering**.
 
@@ -269,7 +269,7 @@ CoHumAIn Framework
 - **[Safety & Compliance](docs/safety.md)** - Regulatory requirements and best practices
 - **[Evaluation Methodology](docs/evaluation.md)** - Metrics and validation
 - **[API Reference](docs/api/)** - Complete Python API documentation
-- **[Research Paper](https://github.com/CoHumAInLabs/CoHumAIn-Framework/blob/main/paper/cohumain_paper.pdf)** - XAI-2026 submission
+- **[Research Paper](https://drive.google.com/file/d/1fc0bBEF0jxjlgBDZcTUkIuxVSkGLf39M/view?usp=drive_link)** - XAI-2026 submission
 
 ---
 
